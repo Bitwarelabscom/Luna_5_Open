@@ -1,2 +1,2 @@
 # Luna_5_Open
-The parts we opensource is here
+Use https://github.com/Bitwarelabscom/Luna_chat_v7
